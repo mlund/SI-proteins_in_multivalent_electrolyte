@@ -1,0 +1,86 @@
+#ifdef _FF_OPLS
+;
+; See literature references in ffoplsaa.itp
+;
+;[ moleculetype ]
+; molname	nrexcl
+;CU1+		1
+
+;[ atoms ]
+; id	at type	res nr 	residu name	at name  cg nr	charge   mass
+;1	CU1+	1	CU1+		CU1+	 1	1	 63.54600
+
+[ moleculetype ]
+; molname	nrexcl
+NA+		1
+
+[ atoms ]
+; id	at type		res nr 	residu name	at name  cg nr	charge   mass
+1	opls_407	1	NA+		NA	 1	1	22.98977	 
+
+[ moleculetype ]
+; molname	nrexcl
+K+		1
+
+[ atoms ]
+; id	at type		res nr 	residu name	at name  cg nr	charge   mass
+1	opls_408	1	K+		K	 1	1	 39.0983
+
+[ moleculetype ]
+; molname	nrexcl
+Rb+		1
+
+[ atoms ]
+; id	at type		res nr 	residu name	at name  cg nr	charge   mass
+1	opls_409	1	Rb+		Rb	 1	1	85.4678
+
+[ moleculetype ]
+; molname	nrexcl
+Cs+		1
+
+[ atoms ]
+; id	at type		res nr 	residu name	at name  cg nr	charge   mass
+1	opls_410	1	Cs+		Cs	 1	1	132.9054
+
+[ moleculetype ]
+; molname       nrexcl
+Y3+             1
+
+[ atoms ]
+; id    at type         res nr  residu name     at name  cg nr  charge   mass
+1       opls_414B        1       Y3+            Y        1      2.25       132.9054
+
+
+[ moleculetype ]
+; molname	nrexcl
+F-		1
+
+[ atoms ]
+; id	at type		res nr 	residu name	at name  cg nr	charge   mass
+1	opls_400	1	F-		F	 1	-1	 18.9984
+
+[ moleculetype ]
+; molname	nrexcl
+CL-		1
+
+[ atoms ]
+; id	at type		res nr 	residu name	at name  cg nr	charge   mass
+1	opls_401	1	CL-		CL	 1	-0.75	 35.45300
+
+[ moleculetype ]
+; molname	nrexcl
+BR-		1
+
+[ atoms ]
+; id	at type		res nr 	residu name	at name  cg nr	charge   mass
+1	opls_402	1	BR-		BR	 1	-1	 79.904
+
+[ moleculetype ]
+; molname	nrexcl
+I-		1
+
+[ atoms ]
+; id	at type		res nr 	residu name	at name  cg nr	charge   mass
+1	opls_403	1	I-		I	 1	-1	 126.9045
+
+#endif
