@@ -1,6 +1,6 @@
 # Supporting information
 
-### Manuscript title: _Anomalous protein-protein interactions in multivalent salt electrolyte solution_
+### Manuscript title: _Anomalous protein-protein interactions in multivalent salt solution_
 
 The layout is as follows
 
