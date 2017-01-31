@@ -2,8 +2,9 @@
 
 ### Manuscript title: _Anomalous protein-protein interactions in multivalent salt solution_
 
-By clicking here: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/mlund/si-proteins_in_multivalent_electrolyte)
-the Jupyter Notebook can be run interactively in a browser and plots can be reproduced. Note that we provide saved Monte Carlo simulation data so that no production needs to be run, nor is it needed to compile the MC package although this is fully possible from within the notebook.
+This is supporting information for the above scientific manuscript. By running the provided Jupyter notebooks (`.ipynb`) simulations and plots can be reproduced. Either clone the repository (recommended if you want to run simulations) or simply click the link below if you merely need to analyze the simulation data we provide:
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/mlund/si-proteins_in_multivalent_electrolyte)
 
 The layout is as follows
 
