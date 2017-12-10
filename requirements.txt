@@ -1,2 +1,5 @@
+python=3
 scipy
 pandas
+matplotlib=1
+scipy
