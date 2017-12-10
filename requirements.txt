@@ -1,5 +1,0 @@
-python>=3
-scipy
-pandas
-matplotlib<2
-scipy
