@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.438958.svg)](https://doi.org/10.5281/zenodo.438958)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10437776.svg)](https://doi.org/10.5281/zenodo.10437776)
 [![ci](https://github.com/mlund/SI-proteins_in_multivalent_electrolyte/actions/workflows/ci.yml/badge.svg)](https://github.com/mlund/SI-proteins_in_multivalent_electrolyte/actions/workflows/ci.yml)
 
 # Supporting information: Anomalous protein–protein interactions in multivalent salt solution

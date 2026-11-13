@@ -8,8 +8,8 @@ license: CC-BY-4.0
 repository-code: "https://github.com/mlund/SI-proteins_in_multivalent_electrolyte"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.438958
-    description: "Zenodo record, v1.0.1"
+    value: 10.5281/zenodo.10437776
+    description: "Zenodo record, v2.0.0"
 authors:
   - family-names: Lund
     given-names: Mikael
