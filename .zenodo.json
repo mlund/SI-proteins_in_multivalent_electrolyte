@@ -1,0 +1,30 @@
+{
+    "title": "Supporting information: Anomalous protein-protein interactions in multivalent salt solution",
+    "description": "<p>Supporting information for C. Pasquier, M. Vazdar, J. Forsman, P. Jungwirth and M. Lund, <em>Anomalous Protein–Protein Interactions in Multivalent Salt Solution</em>, J. Phys. Chem. B 121, 3000–3006 (2017).</p><p>Jupyter notebooks and tested Python code that reproduce the protein–protein potentials of mean force between two human serum albumin (HSA) molecules in yttrium chloride solution, computed by Metropolis Monte Carlo with the Faunus framework. Includes the coarse-grained HSA structure, the Monte Carlo program and its input generator, the resulting PMFs as CSV, and GROMACS input files for the all-atom simulations of HSA.</p><p>Licenses: code (<code>src/</code>, <code>tests/</code>, notebooks, <code>twobody.cpp</code>) is GPL-3.0-or-later; data, figures, simulation inputs and text are CC-BY-4.0. The record carries CC-BY-4.0.</p>",
+    "creators": [
+        {
+            "name": "Lund, Mikael",
+            "affiliation": "Division of Computational Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0001-8178-8175"
+        }
+    ],
+    "keywords": [
+        "human serum albumin",
+        "multivalent ions",
+        "yttrium",
+        "potential of mean force",
+        "Monte Carlo simulation",
+        "protein-protein interactions"
+    ],
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.1021/acs.jpcb.7b01051",
+            "relation": "isSupplementTo",
+            "resource_type": "publication-article"
+        }
+    ],
+    "license": "CC-BY-4.0",
+    "access_right": "open",
+    "upload_type": "workflow"
+}
