@@ -1,8 +1,0 @@
-name: SImultivalent
-channels:
-    - defaults
-dependencies:
-    - python=3
-    - scipy
-    - pandas
-    - matplotlib=1
